@@ -26,7 +26,7 @@ a{
 .title{
     display: flex;
     justify-content: center;
-    text-align; center;
+    text-align: center;
     margin: 50px auto;
     color: white;
     font-size:  larger;
@@ -75,6 +75,7 @@ td {
     text-align: center;
     color:  black;
 }
+
 
 
 
