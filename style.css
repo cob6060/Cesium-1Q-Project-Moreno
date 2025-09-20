@@ -1,0 +1,70 @@
+body{
+    background: url(droplets.png);
+    background-color: #6495B1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navgbar {
+    display: flex; 
+    gap: 100px;
+    align-items: center; 
+    justify-content: right;
+    background-color: #006699;
+    padding: 50px;
+    font-size: 25px;
+}
+
+.navgactive a {
+    color:rgb(243, 179, 17);
+}
+
+.title{
+    display: flex;
+    justify-self: center;
+    margin: 50px;
+    color: white;
+    font-size:  larger;
+    background-color: rgba(100, 149, 177, 0.9);
+}
+
+p{
+    display: flex;
+    justify-self: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 25px;
+    color: #ededed;
+    background-color: rgba(100, 149, 177, 0.75);
+}
+
+.content img{
+    width: 900px;
+    display: flex;
+    justify-self: center;
+}
+
+caption {
+    font-size: 30px;
+    color: white;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: solid;
+    border-spacing: 5px;
+    justify-self: center;
+    margin: 50px;
+    background-color: #B0D6E8;
+}
+
+td {
+    border: 3px solid black;
+    padding: 5px;
+    text-align: center;
+    color:  black;
+}
