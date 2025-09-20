@@ -54,6 +54,12 @@ caption {
     color: white;
 }
 
+.sched {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 table {
     border: 2px solid black;
     border-collapse: solid;
@@ -69,6 +75,7 @@ td {
     text-align: center;
     color:  black;
 }
+
 
 
 
