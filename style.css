@@ -24,8 +24,8 @@ a{
 }
 
 .title{
-    text-align;
-    margin: 50px;
+    text-align; center;
+    margin: 50px auto;
     color: white;
     font-size:  larger;
     background-color: rgba(100, 149, 177, 0.9);
@@ -43,8 +43,8 @@ p{
 
 .content img{
     width: 900px;
-    display: flex;
-    justify-self: center;
+    display: block;
+    margin: 0px auto;
 }
 
 caption {
@@ -67,4 +67,5 @@ td {
     text-align: center;
     color:  black;
 }
+
 
